@@ -1,24 +1,20 @@
 # Instrucciones para asistentes — Eleven Book
 
-Este repositorio es la fuente canónica de reglas para preparar capítulos de libros como archivos Markdown para **ElevenReader**.
+Este repositorio es la fuente canónica de instrucciones para preparar textos de libros como archivos Markdown, destinados a **ElevenReader**.
 
-Antes de cada conversión, leer [REGLAS.md](REGLAS.md) y aplicar sus instrucciones al libro que el usuario haya incorporado como fuente.
+Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin confundirlas:
 
-## Prioridades
+1. **Capítulo íntegro**: ante «Capítulo N», «Prepará el prólogo» o una petición de conversión fiel, aplicar [REGLAS.md](REGLAS.md). Entregar el capítulo completo, sin resúmenes ni reescritura.
+2. **Resumen de libro completo**: ante «Resumí el libro», «Resumen de todos los capítulos» o una petición de audiolibro resumido, aplicar [RESUMENES.md](RESUMENES.md). Entregar **un único archivo .md** con síntesis narrativa de todos los capítulos, sin crítica añadida.
 
-1. **Integridad del capítulo y fidelidad a la fuente.**
-2. **Ausencia de invenciones, resúmenes u omisiones.**
-3. **Limpieza técnica para una lectura oral fluida.**
-4. **Entrega de un archivo `.md` auténtico y descargable.**
+## Prioridades compartidas
 
-El usuario puede pedir el capítulo solo por número. Usar el libro inequívoco de las fuentes del proyecto sin pedir de nuevo información ya disponible.
+1. **Fidelidad a la fuente aportada por el usuario**: verificar contenido, capítulos y límites; no inferir pasajes desde títulos, memoria o fuentes secundarias.
+2. **No inventar ni ocultar lagunas**: si parte de la fuente es inaccesible, indicarlo claramente.
+3. **Texto apto para escuchar**: limpio, natural, sin formato que interrumpa la narración.
+4. **Entregar un archivo .md real y descargable** acorde a la modalidad elegida.
+5. **No publicar libros ni resúmenes de terceros en este repositorio**: aquí se guardan únicamente las instrucciones.
 
-No asumir que el título de un archivo, una cita secundaria o la memoria del modelo equivalen al contenido del libro. Leer la fuente y comprobar los límites del capítulo.
+Cuando el usuario identifique inequívocamente el libro entre las fuentes del proyecto, no volver a pedirlo. No alterar las reglas de un modo para satisfacer pedidos del otro.
 
-No editar ni depositar aquí el contenido de libros de terceros. Actualizar estas reglas solo cuando el usuario solicite cambiar el procedimiento.
-
-## Resultado
-
-Ante «Capítulo N», entregar el capítulo N completo en `.md`, sin cambiar el idioma ni la redacción del autor. Incluir en el mensaje solo el enlace de descarga y, si hiciera falta, una observación concreta sobre problemas de extracción.
-
-Consultar [README.md](README.md) para el propósito y el uso del repositorio.
+Consultar [README.md](README.md) para el propósito y los ejemplos de uso.
