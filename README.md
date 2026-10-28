@@ -1,23 +1,28 @@
 # Eleven Book
 
-Reglas para preparar capítulos de libros aportados como fuentes en un proyecto de ChatGPT y escucharlos en **ElevenReader**.
+Instrucciones para preparar libros aportados como fuentes en ChatGPT y escucharlos en **ElevenReader**, usando archivos Markdown descargables.
 
-El objetivo es generar, a pedido, **un archivo Markdown (.md) descargable por capítulo**, con el contenido íntegro del capítulo y un formato limpio para lectura en voz alta. No se trata de resumir, reescribir ni comentar el libro.
+El repositorio contiene **dos procedimientos independientes**:
+
+- **[Capítulos íntegros](REGLAS.md)**: convertir, a pedido, el texto completo de un capítulo en un archivo `.md`, sin resumir, reescribir ni comentar.
+- **[Resúmenes de libros completos](RESUMENES.md)**: condensar todos los capítulos de un libro de no ficción en **un solo `.md` narrativo**, corto y fiel, para escuchar y decidir si vale la pena leer el original.
 
 ## Fuente de verdad
 
-Leer [AGENTS.md](AGENTS.md) antes de trabajar. Las reglas operativas están en [REGLAS.md](REGLAS.md).
+Los asistentes deben empezar por [AGENTS.md](AGENTS.md), que indica qué procedimiento corresponde a cada pedido.
 
 ## Uso
 
 1. Incorporar el libro como fuente al proyecto de ChatGPT (PDF, EPUB u otro formato legible).
-2. Pedir, por ejemplo, «Capítulo 1», «Capítulo 5» o «Prepará el prólogo».
-3. Recibir **únicamente el archivo .md correspondiente al capítulo solicitado**, con un enlace de descarga.
+2. Elegir la tarea:
+   - «Capítulo 1» para recibir el texto íntegro de ese capítulo.
+   - «Haceme un resumen de todos los capítulos para ElevenReader» para recibir **un solo archivo con el resumen completo**.
+3. Descargar el archivo `.md` e importarlo en ElevenReader.
 
-Si hay varios libros entre las fuentes, utilizar el libro indicado por el usuario o el contexto inequívoco; preguntar solo si realmente no se puede identificar.
+Si hay varios libros entre las fuentes, utilizar el indicado por el usuario o el contexto inequívoco; preguntar solamente si es imposible identificarlo.
 
-## Alcance del repositorio
+## Alcance y privacidad
 
-Este repositorio contiene **instrucciones**, no copias de libros ni capítulos de terceros. Los archivos de lectura se entregan en la conversación al usuario que proporcionó la fuente, sin publicarlos automáticamente en GitHub.
+Este repositorio guarda **instrucciones**, no copias de libros, capítulos ni resúmenes de obras de terceros. Los archivos de lectura se entregan en la conversación a quien aportó la fuente, sin subirlos automáticamente a GitHub.
 
-Las instrucciones aplican a cualquier autor y libro. El texto, el orden y el idioma del capítulo se respetan; las intervenciones están limitadas a limpieza y presentación para narración.
+Ambos procedimientos son aplicables a cualquier libro. El modo de capítulos íntegros preserva la redacción original; el modo de resúmenes sintetiza ideas y argumentos sin agregar análisis crítico.
