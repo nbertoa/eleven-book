@@ -1,5 +1,17 @@
 # Instrucciones para asistentes — Eleven Book
 
+## Regla prioritaria — Guardar solo después de la aprobación del usuario
+
+Un resumen se guarda en este repositorio **únicamente después de que el usuario lo haya escuchado y dé su aprobación explícita tanto al resumen como a sus puntos clave**. Esa aprobación autoriza a guardar la versión aprobada, sin pedir una segunda confirmación.
+
+- Preparar y entregar primero el archivo `.md` completo, con los puntos clave al final, para que el usuario pueda escucharlo y revisarlo.
+- No interpretar la entrega, el silencio, «ya lo escuché», una solicitud de cambios ni un «ok» referido a otra acción como aprobación para guardarlo. Un «ok» cuenta cuando su contexto deja claro que aprueba el resumen y los puntos clave y autoriza su guardado.
+- Si el usuario pide correcciones, entregar la versión corregida y esperar su aprobación antes de guardarla. Una aprobación previa no autoriza a guardar una versión posteriormente modificada.
+- Después de esa aprobación, guardar el mismo archivo completo en `libros/<autor-en-slug>/<titulo-en-slug>/resumen.md`. Usar nombres de carpeta en minúsculas, sin tildes y con guiones; una carpeta propia por libro. Conservar el título y el autor completos dentro del Markdown. Si ya existe una carpeta para esa misma obra, reutilizarla y actualizar el archivo correspondiente sin crear duplicados.
+- Mantener en el README un índice de los libros guardados, con título, autor y enlace relativo a cada resumen aprobado.
+- Guardar solo el resumen y sus puntos clave aprobados. No subir los archivos originales del libro ni capítulos íntegros como parte de este flujo.
+- Esta regla no aprueba automáticamente ningún resumen existente ni autoriza su guardado retroactivo.
+
 Este repositorio es la fuente canónica de instrucciones para preparar textos de libros como archivos Markdown, destinados a **ElevenReader**.
 
 Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin confundirlas:
@@ -13,7 +25,7 @@ Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin conf
 2. **No inventar ni ocultar lagunas**: si parte de la fuente es inaccesible, indicarlo claramente.
 3. **Texto apto para escuchar**: limpio, natural, sin formato que interrumpa la narración.
 4. **Entregar un archivo .md real y descargable** acorde a la modalidad elegida.
-5. **No publicar libros ni resúmenes de terceros en este repositorio**: aquí se guardan únicamente las instrucciones.
+5. **Guardar resúmenes solo con aprobación explícita** del usuario sobre el resumen y sus puntos clave, conforme a la regla prioritaria. No subir libros originales ni capítulos íntegros como parte de ese guardado.
 
 Cuando el usuario identifique inequívocamente el libro entre las fuentes del proyecto, no volver a pedirlo. No alterar las reglas de un modo para satisfacer pedidos del otro.
 
