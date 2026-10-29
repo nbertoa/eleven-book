@@ -5,7 +5,7 @@ Instrucciones para preparar libros aportados como fuentes en ChatGPT y escucharl
 El repositorio contiene **dos procedimientos independientes**:
 
 - **[Capítulos íntegros](REGLAS.md)**: convertir, a pedido, el texto completo de un capítulo en un archivo `.md`, sin resumir, reescribir ni comentar.
-- **[Resúmenes de libros completos](RESUMENES.md)**: condensar todos los capítulos de un libro de no ficción en **un solo `.md` narrativo**, corto y fiel, para escuchar y decidir si vale la pena leer el original.
+- **[Resúmenes de libros completos](RESUMENES.md)**: condensar todos los capítulos de un libro de no ficción en **un solo `.md`**, con un resumen narrativo corto y fiel y una sección final obligatoria de **puntos clave en bullets**, para escuchar y decidir si vale la pena leer el original.
 
 ## Fuente de verdad
 
@@ -16,7 +16,7 @@ Los asistentes deben empezar por [AGENTS.md](AGENTS.md), que indica qué procedi
 1. Incorporar el libro como fuente al proyecto de ChatGPT (PDF, EPUB u otro formato legible).
 2. Elegir la tarea:
    - «Capítulo 1» para recibir el texto íntegro de ese capítulo.
-   - «Haceme un resumen de todos los capítulos para ElevenReader» para recibir **un solo archivo con el resumen completo**.
+   - «Haceme un resumen de todos los capítulos para ElevenReader» para recibir **un solo archivo con el resumen completo y los puntos clave al final, en bullets**.
 3. Descargar el archivo `.md` e importarlo en ElevenReader.
 
 Si hay varios libros entre las fuentes, utilizar el indicado por el usuario o el contexto inequívoco; preguntar solamente si es imposible identificarlo.
