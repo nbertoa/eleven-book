@@ -5,7 +5,7 @@ Este repositorio es la fuente canónica de instrucciones para preparar textos de
 Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin confundirlas:
 
 1. **Capítulo íntegro**: ante «Capítulo N», «Prepará el prólogo» o una petición de conversión fiel, aplicar [REGLAS.md](REGLAS.md). Entregar el capítulo completo, sin resúmenes ni reescritura.
-2. **Resumen de libro completo**: ante «Resumí el libro», «Resumen de todos los capítulos» o una petición de audiolibro resumido, aplicar [RESUMENES.md](RESUMENES.md). Entregar **un único archivo .md** con síntesis narrativa de todos los capítulos, sin crítica añadida.
+2. **Resumen de libro completo**: ante «Resumí el libro», «Resumen de todos los capítulos» o una petición de audiolibro resumido, aplicar [RESUMENES.md](RESUMENES.md). Entregar **un único archivo .md** con síntesis narrativa de todos los capítulos y una sección final obligatoria `## Puntos clave` en bullets, sin crítica añadida.
 
 ## Prioridades compartidas
 
