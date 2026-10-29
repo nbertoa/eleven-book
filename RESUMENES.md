@@ -1,5 +1,17 @@
 # Reglas para resúmenes de libros destinados a ElevenReader
 
+## Regla prioritaria — Guardar solo después de la aprobación del usuario
+
+Un resumen se guarda en este repositorio **únicamente después de que el usuario lo haya escuchado y dé su aprobación explícita tanto al resumen como a sus puntos clave**. Esa aprobación autoriza a guardar la versión aprobada, sin pedir una segunda confirmación.
+
+- Preparar y entregar primero el archivo `.md` completo, con los puntos clave al final, para que el usuario pueda escucharlo y revisarlo.
+- No interpretar la entrega, el silencio, «ya lo escuché», una solicitud de cambios ni un «ok» referido a otra acción como aprobación para guardarlo. Un «ok» cuenta cuando su contexto deja claro que aprueba el resumen y los puntos clave y autoriza su guardado.
+- Si el usuario pide correcciones, entregar la versión corregida y esperar su aprobación antes de guardarla. Una aprobación previa no autoriza a guardar una versión posteriormente modificada.
+- Después de esa aprobación, guardar el mismo archivo completo en `libros/<autor-en-slug>/<titulo-en-slug>/resumen.md`. Usar nombres de carpeta en minúsculas, sin tildes y con guiones; una carpeta propia por libro. Conservar el título y el autor completos dentro del Markdown. Si ya existe una carpeta para esa misma obra, reutilizarla y actualizar el archivo correspondiente sin crear duplicados.
+- Mantener en el README un índice de los libros guardados, con título, autor y enlace relativo a cada resumen aprobado.
+- Guardar solo el resumen y sus puntos clave aprobados. No subir los archivos originales del libro ni capítulos íntegros como parte de este flujo.
+- Esta regla no aprueba automáticamente ningún resumen existente ni autoriza su guardado retroactivo.
+
 ## Propósito
 
 Crear un **resumen narrativo capítulo por capítulo de un libro completo**, en un único archivo Markdown (`.md`) listo para escuchar con ElevenReader. El resumen sirve para conocer el argumento del libro, explorar ideas y decidir si vale la pena leer el original completo.
@@ -85,4 +97,5 @@ Antes de entregar:
 - Dar el **enlace de descarga del Markdown** y, como máximo, una breve indicación de su extensión o tiempo estimado de escucha.
 - El resumen sirve como **filtro de lectura**, no como reemplazo perfecto del texto. Si un capítulo despierta interés, el usuario puede pedir profundizar o leer el original.
 - No descartar categóricamente un libro por la síntesis: un resumen comprime estilo, pruebas y matices.
-- **No subir al repositorio libros, capítulos íntegros ni los resúmenes de obras de terceros**. Este repositorio almacena únicamente reglas y procedimientos.
+- Después de que el usuario escuche y apruebe explícitamente el resumen y sus puntos clave, guardar la versión aprobada y actualizar el índice del README según la regla prioritaria. Antes de esa aprobación, no subir el resumen al repositorio.
+- No subir libros originales ni capítulos íntegros como parte de este flujo.
