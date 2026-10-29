@@ -46,3 +46,4 @@ Ambos procedimientos son aplicables a cualquier libro. El modo de capítulos ín
 - [Todo estará bien: exploraciones sobre el universalismo y la teología cristiana, de Orígenes a Moltmann](libros/gregory-macdonald/todo-estara-bien/resumen.md) — Gregory MacDonald, editor.
 - [Sus puertas nunca se cerrarán: el infierno, la esperanza y la Nueva Jerusalén](libros/bradley-jersak/sus-puertas-nunca-se-cerraran/resumen.md) — Bradley Jersak.
 - [Que todos se salven: cielo, infierno y salvación universal](libros/david-bentley-hart/que-todos-se-salven/resumen.md) — David Bentley Hart.
+- [¿Salvación universal? El debate actual](libros/robin-a-parry-y-christopher-h-partridge/salvacion-universal-el-debate-actual/resumen.md) — Robin A. Parry y Christopher H. Partridge, editores.
