@@ -44,3 +44,4 @@ Ambos procedimientos son aplicables a cualquier libro. El modo de capítulos ín
 
 - [La victoria final de Dios: una defensa filosófica comparativa del universalismo](libros/john-kronen-y-eric-reitan/la-victoria-final-de-dios/resumen.md) — John Kronen y Eric Reitan.
 - [Todo estará bien: exploraciones sobre el universalismo y la teología cristiana, de Orígenes a Moltmann](libros/gregory-macdonald/todo-estara-bien/resumen.md) — Gregory MacDonald, editor.
+- [Sus puertas nunca se cerrarán: el infierno, la esperanza y la Nueva Jerusalén](libros/bradley-jersak/sus-puertas-nunca-se-cerraran/resumen.md) — Bradley Jersak.
