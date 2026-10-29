@@ -43,3 +43,4 @@ Ambos procedimientos son aplicables a cualquier libro. El modo de capítulos ín
 ## Libros aprobados
 
 - [La victoria final de Dios: una defensa filosófica comparativa del universalismo](libros/john-kronen-y-eric-reitan/la-victoria-final-de-dios/resumen.md) — John Kronen y Eric Reitan.
+- [Todo estará bien: exploraciones sobre el universalismo y la teología cristiana, de Orígenes a Moltmann](libros/gregory-macdonald/todo-estara-bien/resumen.md) — Gregory MacDonald, editor.
