@@ -30,3 +30,10 @@ Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin conf
 Cuando el usuario identifique inequívocamente el libro entre las fuentes del proyecto, no volver a pedirlo. No alterar las reglas de un modo para satisfacer pedidos del otro.
 
 Consultar [README.md](README.md) para el propósito y los ejemplos de uso.
+
+## Libros destacados para leer completos
+
+- La aprobación del resumen y sus puntos clave autoriza su guardado, pero no implica por sí sola una recomendación de lectura completa.
+- Cuando el usuario destaque expresamente un libro como valioso para leer completo, marcar su entrada del índice del README con `★` y el texto `Lectura completa recomendada`.
+- Mantener la leyenda de esa marca en el README. Un libro sin estrella no tiene una valoración negativa: simplemente no recibió esa distinción.
+- Asignar o quitar la estrella solo por indicación del usuario. No extenderla automáticamente a otros libros ni modificar el texto aprobado del resumen para incorporar esta valoración.
