@@ -42,4 +42,4 @@ Ambos procedimientos son aplicables a cualquier libro. El modo de capítulos ín
 
 ## Libros aprobados
 
-Todavía no se incorporaron resúmenes mediante este flujo de aprobación. Agregar aquí un enlace relativo a cada resumen cuando se guarde con la aprobación requerida.
+- [La victoria final de Dios: una defensa filosófica comparativa del universalismo](libros/john-kronen-y-eric-reitan/la-victoria-final-de-dios/resumen.md) — John Kronen y Eric Reitan.
