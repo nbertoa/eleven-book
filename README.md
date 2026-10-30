@@ -50,3 +50,4 @@ Todos los libros de este índice tienen su resumen y sus puntos clave aprobados.
 - [Que todos se salven: cielo, infierno y salvación universal](libros/david-bentley-hart/que-todos-se-salven/resumen.md) — David Bentley Hart.
 - [¿Salvación universal? El debate actual](libros/robin-a-parry-y-christopher-h-partridge/salvacion-universal-el-debate-actual/resumen.md) — Robin A. Parry y Christopher H. Partridge, editores.
 - ★ [Los actos de nuestro Dios bondadoso](libros/jay-a-schulberg/los-actos-de-nuestro-dios-bondadoso/resumen.md) — Jay A. Schulberg. **Lectura completa recomendada.**
+- [Behold Your God — He aquí vuestro Dios](libros/f-t-wright/behold-your-god/resumen.md) — F. T. Wright.
