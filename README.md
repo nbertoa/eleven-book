@@ -52,3 +52,4 @@ Todos los libros de este índice tienen su resumen y sus puntos clave aprobados.
 - ★ [Los actos de nuestro Dios bondadoso](libros/jay-a-schulberg/los-actos-de-nuestro-dios-bondadoso/resumen.md) — Jay A. Schulberg. **Lectura completa recomendada.**
 - [Behold Your God — He aquí vuestro Dios](libros/f-t-wright/behold-your-god/resumen.md) — F. T. Wright.
 - [La crucifixión del Dios guerrero: interpretación de los retratos violentos de Dios en el Antiguo Testamento a la luz de la cruz](libros/gregory-a-boyd/la-crucifixion-del-dios-guerrero/resumen.md) — Gregory A. Boyd. Volúmenes uno y dos.
+- ★ [Ágape: una revelación del carácter amante del Padre](libros/adrian-ebens/agape/resumen.md) — Adrian Ebens. **Lectura completa recomendada.**
