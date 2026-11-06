@@ -14,10 +14,11 @@ Un resumen se guarda en este repositorio **únicamente después de que el usuari
 
 Este repositorio es la fuente canónica de instrucciones para preparar textos de libros como archivos Markdown, destinados a **ElevenReader**.
 
-Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin confundirlas:
+Hay **dos modalidades base** y un flujo especial para traducciones expresamente solicitadas. Elegir el procedimiento correspondiente sin confundirlos:
 
 1. **Capítulo íntegro**: ante «Capítulo N», «Prepará el prólogo» o una petición de conversión fiel, aplicar [REGLAS.md](REGLAS.md). Entregar el capítulo completo, sin resúmenes ni reescritura.
 2. **Resumen de libro completo**: ante «Resumí el libro», «Resumen de todos los capítulos» o una petición de audiolibro resumido, aplicar [RESUMENES.md](RESUMENES.md). Entregar **un único archivo .md** con síntesis narrativa de todos los capítulos y una sección final obligatoria `## Puntos clave` en bullets, sin crítica añadida.
+3. **Traducción al español de un capítulo**: solamente cuando se solicite de forma explícita. Traducir el capítulo completo sin resumir ni añadir contenido. **Si el libro trata de la práctica de la presencia de Dios**, leer los documentos vigentes [README](https://github.com/nbertoa/practica-presencia-dios/blob/main/README.md), [AGENTS](https://github.com/nbertoa/practica-presencia-dios/blob/main/AGENTS.md) y [REGLAS](https://github.com/nbertoa/practica-presencia-dios/blob/main/REGLAS.md) del repositorio temático y guardar allí cada capítulo traducido, en la carpeta del autor y de la obra, actualizando el índice. No guardar capítulos en `eleven-book`. Fuera de ese tema, no usar automáticamente ese repositorio.
 
 ## Prioridades compartidas
 
@@ -26,6 +27,8 @@ Hay **dos modalidades diferentes**. Elegir la que corresponde al pedido sin conf
 3. **Texto apto para escuchar**: limpio, natural, sin formato que interrumpa la narración.
 4. **Entregar un archivo .md real y descargable** acorde a la modalidad elegida.
 5. **Guardar resúmenes solo con aprobación explícita** del usuario sobre el resumen y sus puntos clave, conforme a la regla prioritaria. No subir libros originales ni capítulos íntegros como parte de ese guardado.
+
+En el flujo de traducción temática, el pedido expreso de guardar capítulos traducidos autoriza su archivo progresivo después de la revisión de integridad; **no sustituye ni modifica la aprobación necesaria para guardar resúmenes**. No subir EPUB/PDF originales ni iniciar capítulos no pedidos.
 
 Cuando el usuario identifique inequívocamente el libro entre las fuentes del proyecto, no volver a pedirlo. No alterar las reglas de un modo para satisfacer pedidos del otro.
 
