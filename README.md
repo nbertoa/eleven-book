@@ -14,10 +14,11 @@ Un resumen se guarda en este repositorio **únicamente después de que el usuari
 
 Instrucciones para preparar libros aportados como fuentes en ChatGPT y escucharlos en **ElevenReader**, usando archivos Markdown descargables.
 
-El repositorio contiene **dos procedimientos independientes**:
+El repositorio contiene **dos procedimientos base** y un flujo de traducción explícitamente solicitada:
 
 - **[Capítulos íntegros](REGLAS.md)**: convertir, a pedido, el texto completo de un capítulo en un archivo `.md`, sin resumir, reescribir ni comentar.
 - **[Resúmenes de libros completos](RESUMENES.md)**: condensar todos los capítulos de un libro de no ficción en **un solo `.md`**, con un resumen narrativo corto y fiel y una sección final obligatoria de **puntos clave en bullets**, para escuchar y decidir si vale la pena leer el original.
+- **[Traducción íntegra al español de capítulos sobre la práctica de la presencia de Dios](https://github.com/nbertoa/practica-presencia-dios/blob/main/AGENTS.md)**: ante una solicitud expresa de traducción, seguir las reglas temáticas y guardar cada capítulo traducido y revisado en [practica-presencia-dios](https://github.com/nbertoa/practica-presencia-dios), no en este repositorio. Esta opción no se aplica a libros de otros temas.
 
 ## Fuente de verdad
 
@@ -27,7 +28,8 @@ Los asistentes deben empezar por [AGENTS.md](AGENTS.md), que indica qué procedi
 
 1. Incorporar el libro como fuente al proyecto de ChatGPT (PDF, EPUB u otro formato legible).
 2. Elegir la tarea:
-   - «Capítulo 1» para recibir el texto íntegro de ese capítulo.
+   - «Capítulo 1» para recibir el texto íntegro de ese capítulo en su idioma original.
+   - «Traducí el capítulo 1 al español» para recibirlo completo en español; si trata de la práctica de la presencia de Dios, guardarlo además en el repositorio temático.
    - «Haceme un resumen de todos los capítulos para ElevenReader» para recibir **un solo archivo con el resumen completo y los puntos clave al final, en bullets**.
 3. Descargar el archivo `.md` e importarlo en ElevenReader.
 4. Escuchar y revisar el resumen y los puntos clave. Solo después de aprobar explícitamente ambos se guarda la versión aprobada en la carpeta del libro y se agrega al índice.
@@ -39,6 +41,10 @@ Si hay varios libros entre las fuentes, utilizar el indicado por el usuario o el
 Este repositorio guarda **instrucciones y resúmenes expresamente aprobados por el usuario después de escucharlos y revisar sus puntos clave**. Los archivos se entregan primero en la conversación; su entrega no autoriza su guardado en GitHub. No se suben libros originales ni capítulos íntegros como parte del archivo de resúmenes.
 
 Ambos procedimientos son aplicables a cualquier libro. El modo de capítulos íntegros preserva la redacción original; el modo de resúmenes sintetiza ideas y argumentos sin agregar análisis crítico.
+
+## Traducciones temáticas de capítulos
+
+Los capítulos traducidos al español de obras **sobre la práctica de la presencia de Dios** se guardan, a medida que estén completos y verificados, en el repositorio privado [nbertoa/practica-presencia-dios](https://github.com/nbertoa/practica-presencia-dios), usando `libros/<autor-slug>/<libro-slug>/capitulos/capitulo-NN-<titulo-es-slug>.md`. Consultar primero los documentos vigentes `README.md`, `AGENTS.md` y `REGLAS.md` de ese repositorio, que definen el formato, la fidelidad y el índice de capítulos. Esta indicación es específica para ese tema y responde al pedido expreso del usuario; **no cambia la aprobación previa exigida para guardar resúmenes**, ni autoriza subir originales o capítulos de otros libros.
 
 ## Libros aprobados
 
