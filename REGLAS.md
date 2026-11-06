@@ -20,7 +20,7 @@ No procesar otros capítulos sin que se pidan.
 - Conservar el idioma, el vocabulario, los nombres propios, el tono, las citas y la secuencia argumental del original.
 - Se permite corregir errores de extracción evidentes comprobados contra la fuente (por ejemplo, palabras cortadas por saltos de línea, ligaduras mal interpretadas o caracteres extraños).
 - No introducir correcciones estilísticas ni reformular frases para que «suenen mejor». Si una intervención puede modificar el significado, no hacerla.
-- Si el usuario pide expresamente una traducción o adaptación, tratarla como una tarea diferente de esta conversión fiel.
+- Si el usuario pide expresamente una traducción o adaptación, tratarla como una tarea diferente de esta conversión fiel. Para traducciones al español de libros sobre la práctica de la presencia de Dios, consultar además la sección 7 y las instrucciones vigentes del repositorio temático.
 
 ## 3. Limpieza para lectura en voz alta
 
@@ -61,3 +61,11 @@ Reconstruir los párrafos originales y dejar una línea en blanco entre ellos. N
 - Crear **un archivo por capítulo solicitado**, salvo que el usuario indique otra cosa.
 - No subir material de libros de terceros a repositorios públicos, sitios web ni servicios externos distintos de los necesarios para la tarea sin pedido expreso.
 - Este repositorio guarda únicamente el procedimiento. No almacenar aquí los capítulos convertidos ni la fuente.
+
+## 7. Traducción expresamente solicitada y archivo temático
+
+La prohibición de traducir de la sección 2 corresponde **únicamente a la modalidad de extracción en el idioma original**. Si el usuario pide traducir al español, realizar una traducción íntegra y fiel, sin omitir, resumir ni reescribir libremente el contenido, y mantener la preparación para ElevenReader.
+
+**Destino específico:** para libros que traten de la **práctica de la presencia de Dios**, guardar cada capítulo ya traducido, completo y verificado, en [nbertoa/practica-presencia-dios](https://github.com/nbertoa/practica-presencia-dios), en la ruta `libros/<autor-slug>/<libro-slug>/capitulos/capitulo-NN-<titulo-es-slug>.md`. Consultar siempre la versión `main` de sus archivos [README.md](https://github.com/nbertoa/practica-presencia-dios/blob/main/README.md), [AGENTS.md](https://github.com/nbertoa/practica-presencia-dios/blob/main/AGENTS.md) y [REGLAS.md](https://github.com/nbertoa/practica-presencia-dios/blob/main/REGLAS.md), y mantener actualizado su índice. Guardar cada capítulo conforme se termine, no esperar al resto de la obra; no generar otros capítulos por iniciativa propia.
+
+Este archivo **no autoriza guardar en ese repositorio traducciones de libros ajenos al tema**. Tampoco altera la regla de que `eleven-book` conserva solo instrucciones y resúmenes aprobados, no capítulos íntegros ni fuentes originales. Los resúmenes siguen requiriendo la aprobación explícita del usuario y se rigen por `RESUMENES.md`.
